@@ -1,0 +1,2 @@
+# Virtual Calculator
+In this project, we will build a virtual calculator that uses finger movements to operate. We will create a button class and generate 16 buttons that will help us perform the calculation.
